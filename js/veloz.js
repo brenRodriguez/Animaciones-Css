@@ -1,0 +1,1 @@
+Velocity(document.getElementById('eleven'), { width: "500px" }, { duration: 1000 });

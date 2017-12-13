@@ -1,0 +1,93 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+.titulo {
+	font-family: 'Ubuntu', sans-serif;
+	color:#7E7C7C;
+	font-size: 30px;
+}
+ 
+ li{
+  /*list-style: none;*/
+ }
+
+h2{font-family: 'Dosis', sans-serif;
+  font-size: 30px;
+  margin-top:40px;
+  color:#6E6D6D;
+
+}
+.texto {
+	font-family: 'Dosis', sans-serif;
+	font-size: 25px;
+	text-decoration:none;
+	color:#6E6D6D;
+}
+.contenido{
+  font-family: 'Dosis', sans-serif;
+  font-size: 30px;
+  text-decoration:none;
+  color:#6E6D6D;
+
+}
+
+
+.destacado{
+	font-size: 60px;
+	color:#354070;
+}
+
+.cajas{
+	float: left;
+}
+.cajas1{
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+
+.cajaImagen{
+	width: 650px;
+	height: 500px;
+	background-color: #FAF9F0;
+}
+
+.circulo{
+	padding-top: 150px;
+	padding-left:170px;
+
+} 
+.contenedorTexto{
+	width: 600px;
+	height: 500px;
+	padding-left: 120px;
+	padding-top: 50px;
+}
+
+.texto{ margin-top: 40px;
+}
+	
+
+
+.claseAni{
+	font-weight: bold;
+	color:#354070;
+	font-size: 28px;
+}
+	.eleven,.jona, .logAda,{
+    -webkit-animation-duration: 32s;
+    -webkit-animation-delay: 2s;
+    -webkit-animation-iteration-count: 5;
+}
+.cubo{
+	margin-right: 10px;
+}
+.cajaImagen1{
+
+	width: 650px;
+	height: 400px;
+	background-color: #FAF9F0;
+}
